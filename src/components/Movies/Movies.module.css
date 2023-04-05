@@ -1,0 +1,12 @@
+.movies__title {
+  display: block;
+  margin-left: 40px;
+}
+.movies__list {
+  display: flex;
+  flex-direction: column;
+}
+
+.movies__item {
+  margin-bottom: 15px;
+}

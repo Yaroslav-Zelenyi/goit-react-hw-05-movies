@@ -1,0 +1,28 @@
+.details__wrapper {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+  padding: 10px 10px;
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+}
+.details__image {
+  display: block;
+}
+.details__link {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+  margin-top: 10px;
+  gap: 10px;
+}
+.details__list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.details__add {
+  display: block;
+  border-bottom: 1px solid grey;
+  padding-left: 10px;
+}
